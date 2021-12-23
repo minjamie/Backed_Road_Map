@@ -14,14 +14,6 @@
 
 오프라인 모임을 주 1회를 통해 발표를 통해 서로 공부한 내용을 나눈다.
 
-# Today I Learned(TIL)
-
-<원칙>
-
-- 1일 1커밋을 달성할 것
-- 2시간 이상 공부한 내용을 바탕으로 커밋을 작성할 것
-- 배운 내용을 바탕으로 아내의 양식들을 채워서 회고하는 과정을 가질 것
-
 # Road Map
 
 ![](https://images.velog.io/images/minj9_6/post/0f0cc0a2-06d7-4aae-946a-d8f458a68614/image.png)
